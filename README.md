@@ -37,6 +37,9 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&theme=transparent" alt="huixin-tw" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&theme=transparent" alt="huixin-tw" />
 
-<img width="80" src="https://visitor-badge.glitch.me/badge?page_id=HUIXIN-TW.visitor-badge&left_color=#E6ABFF&right_color=#6DC7FF" />
+</br>
+</br>
+
+<img align="left" alt="Huixin Yang Visitor" width="22px" src="https://visitor-badge.glitch.me/badge?page_id=HUIXIN-TW.visitor-badge&left_color=red&right_color=green&left_text=Visitors" />
