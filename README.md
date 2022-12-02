@@ -39,4 +39,4 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&theme=transparent" alt="huixin-tw" />
 
-<img width="400" src="https://visitor-badge.glitch.me/badge?page_id=HUIXIN-TW.visitor-badge&left_color=red&right_color=#C822FF" />
+<img width="40" src="https://visitor-badge.glitch.me/badge?page_id=HUIXIN-TW.visitor-badge&left_color=red&right_color=#C822FF" />
