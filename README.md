@@ -10,6 +10,10 @@
 <a href="https://huixin.notion.site">
   <img align="left" alt="Huixin Yang Notion" width="22px" src="https://img.icons8.com/nolan/512/notion.png"/>
 </a> 
+<a href="mailto:huixin.yang.tw@gmail.com">
+  <img align="left" alt="Huixin Yang Email" width="22px" src="https://img.icons8.com/nolan/512/apple-mail.png"/>
+</a> 
+
 
 
 <!--
@@ -26,7 +30,6 @@
     <li> 🎯 I'm interested in Blockchain, and on the way toward becoming a Solidity developer by self-learning</li>
     <li> 📝 Check out my <a href="https://huixin-tw.github.io/Resume/">resume</a> and <a href="https://linkedin.com/in/hui-xin-yang">LinkedIn</a></li>
     <li> 💬 Ask me about Python, Git, SQL, Java, Bash, Accounting and Finance</li>
-    <li> 📫 How to reach me: <a href="mailto:huixin.yang.tw@gmail.com">📧</a></li>
     <li> ⚡ Fun fact: I always greet my dog before he do.</li>
   </ul>
 </div>
@@ -34,6 +37,6 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&theme=great-gatsby" alt="huixin-tw" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&theme=transparent" alt="huixin-tw" />
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=huixin-tw.huixin-tw" />
+<img width="400" src="https://visitor-badge.glitch.me/badge?page_id=HUIXIN-TW.visitor-badge&left_color=red&right_color=#C822FF" />
