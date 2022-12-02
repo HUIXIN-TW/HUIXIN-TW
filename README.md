@@ -8,7 +8,7 @@
   <img align="left" alt="Huixin Yang Github" width="22px" src="https://img.icons8.com/nolan/512/github.png"/>
 </a>  
 <a href="https://huixin.notion.site">
-  <img align="left" alt="Huixin Yang Notion" width="22px" src="[https://img.icons8.com/nolan/512/github.png](https://img.icons8.com/nolan/512/notion.png)"/>
+  <img align="left" alt="Huixin Yang Notion" width="22px" src="https://img.icons8.com/nolan/512/notion.png"/>
 </a> 
 
 
