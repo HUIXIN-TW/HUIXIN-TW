@@ -1,12 +1,12 @@
-### Hello World 👋
+### <a href="https://linkedin.com/in/hui-xin-yang">
+  <img align="left" alt="Huixin Yang LinkedIn" width="22px" src="https://img.icons8.com/nolan/512/linkedin-circled.png"/>
+</a> <a href="https://huixin-tw.github.io/Resume">
+  <img align="left" alt="Huixin Yang Github" width="22px" src="https://img.icons8.com/nolan/512/github.png"/>
+</a>  Hello World 👋
 
 <!--
 **HUIXIN-TW/HUIXIN-TW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-<a href="https://linkedin.com/in/hui-xin-yang">
-  <img align="left" alt="Huixin Yang LinkedIn" width="22px" src="https://img.icons8.com/fluency/512/linkedin.png"/>
-</a>
 
 </br>
 
