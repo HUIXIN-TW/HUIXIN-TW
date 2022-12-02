@@ -5,7 +5,7 @@
 -->
 
 <a href="https://linkedin.com/in/hui-xin-yang">
-  <img align="left" alt="Huixin Yang LinkedIn" width="22px" src="https://icons8.com/icon/xuvGCOXi8Wyg/linkedin" />
+  <img align="left" alt="Huixin Yang LinkedIn" width="22px" src="https://img.icons8.com/fluency/512/linkedin.png"/>
 </a>
 
 </br>
@@ -16,7 +16,7 @@
     <li> 🔭 I’m currently working on <a href="https://github.com/codersforcauses/poops">CFC POOPs project</a>.</li>
     <li> 🌱 I’m currently learning React, Typescript and Firebase</li>
     <li> 🎯 I'm interested in Blockchain, and on the way toward becoming a Solidity developer by self-learning</li>
-    <li> 📝 Check out my <a href="https://huixin-tw.github.io/Resume/">resume</a></li> and <a href="https://linkedin.com/in/hui-xin-yang">LinkedIn</a></li>
+    <li> 📝 Check out my <a href="https://huixin-tw.github.io/Resume/">resume</a> and <a href="https://linkedin.com/in/hui-xin-yang">LinkedIn</a></li>
     <li> 💬 Ask me about Python, Git, SQL, Java, Bash, Accounting and Finance</li>
     <li> 📫 How to reach me: <a href="mailto:huixin.yang.tw@gmail.com">📧</a></li>
     <li> ⚡ Fun fact: I always greet my dog before he do.</li>
