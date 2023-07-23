@@ -39,5 +39,3 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&theme=transparent" alt="huixin-tw" />
 
 </br>
-
-<img align="right" alt="Huixin Yang Visitor" width="80px" src="https://visitor-badge.glitch.me/badge?page_id=HUIXIN-TW.visitor-badge&left_color=red&right_color=green&left_text=Visitors" />
