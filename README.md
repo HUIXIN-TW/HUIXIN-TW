@@ -14,7 +14,7 @@
   <img align="left" alt="Huixin Yang Email" width="22px" src="https://img.icons8.com/nolan/512/apple-mail.png"/>
 </a> 
 <a href="https://portfolio-huixin-tw.vercel.app/">
-  <img align="left" alt="Huixin Yang Portfile" width="22px" src="https://img.icons8.com/nolan/512/web.png"/>
+  <img align="left" alt="Huixin Yang Portfolio" width="22px" src="https://img.icons8.com/nolan/512/web.png"/>
 </a> 
 
 
@@ -29,9 +29,9 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li> 🔭 I’m currently working on <a href="https://github.com/codersforcauses/repair-labs">CFC Repair Labs project</a>.</li>
-    <li> 🌱 I’m currently learning C# and backend tech</li>
+    <li> 🌱 I’m currently learning C# and Backend Tech</li>
     <li> 🎯 I'm interested in Web development and Blockchain</li>
-    <li> 📝 Check out my <a href="https://huixin-tw.github.io/Resume/">resume</a> and <a href="https://linkedin.com/in/hui-xin-yang">LinkedIn</a></li>
+    <li> 📝 Check out my <a href="https://huixin-tw.github.io/Resume/">resume</a> or <a href="https://portfolio-huixin-tw.vercel.app/">portfolio</a> and <a href="https://linkedin.com/in/hui-xin-yang">LinkedIn</a></li>
     <li> 💬 Ask me about Javascript, Typescript, Node.js, Next.js, React, Python, R, Java, Bash, Git, SQL, Accounting and Finance</li>
     <li> ⚡ Fun fact: I always greet my dog before he does.</li>
   </ul>
@@ -39,6 +39,16 @@
 
 </br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&theme=transparent" alt="huixin-tw" />
+<div>
+  <h2>📊 Dashboard</h2>
+  <div align="center">
+    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&rank_icon=percentile&theme=transparent" alt="huixin-tw" />
+    <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUIXIN-TW&size_weight=1&count_weight=1&exclude_repo=github-readme-stats&hide=html,css,scss&layout=compact" alt="huixin-tw-fred-lang" />
+  </div>
+</div>
 
+<div>
+  <h2>📍 Repo I'm working on</h2>
+  <p align="left"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUIXIN-TW&repo=portfolio" alt="huixin-tw-portfolio" />
+</div>
 </br>
