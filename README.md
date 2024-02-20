@@ -42,7 +42,7 @@
 <div>
   <h2>📊 Dashboard</h2>
   <div align="center">
-    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&rank_icon=percentile&theme=transparent" alt="huixin-tw" />
+    <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&rank_icon=default&theme=transparent" alt="huixin-tw" />
     <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUIXIN-TW&size_weight=1&count_weight=1&exclude_repo=github-readme-stats&hide=html,css,scss&layout=compact" alt="huixin-tw-fred-lang" />
   </div>
 </div>
