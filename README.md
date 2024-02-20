@@ -29,10 +29,10 @@
   <h2>⚡️ A Few Quick Facts</h2>
   <ul>
     <li> 🔭 I’m currently working on <a href="https://github.com/codersforcauses/repair-labs">CFC Repair Labs project</a>.</li>
-    <li> 🌱 I’m currently learning Typescript, Node.js and Next.js</li>
+    <li> 🌱 I’m currently learning C# and backend tech</li>
     <li> 🎯 I'm interested in Web development and Blockchain</li>
     <li> 📝 Check out my <a href="https://huixin-tw.github.io/Resume/">resume</a> and <a href="https://linkedin.com/in/hui-xin-yang">LinkedIn</a></li>
-    <li> 💬 Ask me about Python, Git, SQL, Java, Javascript, Bash, R, Accounting and Finance</li>
+    <li> 💬 Ask me about Javascript, Typescript, Node.js, Next.js, React, Python, R, Java, Bash, Git, SQL, Accounting and Finance</li>
     <li> ⚡ Fun fact: I always greet my dog before he does.</li>
   </ul>
 </div>
