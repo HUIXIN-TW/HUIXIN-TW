@@ -48,7 +48,10 @@
 </div>
 
 <div>
-  <h2>📍 Repo I'm working on</h2>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUIXIN-TW&repo=portfolio" alt="huixin-tw-portfolio" />
+  <h2>📍 About ME</h2>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUIXIN-TW&repo=portfolio" alt="huixin-tw-portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUIXIN-TW&repo=Resume" alt="huixin-tw-resume" />
+  </div>
 </div>
 </br>
