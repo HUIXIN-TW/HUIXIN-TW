@@ -39,11 +39,8 @@
 
 ## 📊 GitHub Dashboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HUIXIN-TW&show_icons=true&rank_icon=default&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HUIXIN-TW&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide=html,css,scss&layout=compact" alt="Top Languages" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HUIXIN-TW&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUIXIN-TW&theme=transparent" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HUIXIN-TW&theme=github" />
 </div>
 
 </br>
