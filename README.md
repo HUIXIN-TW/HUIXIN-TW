@@ -26,7 +26,7 @@
 </br>
 
 ## ⚡️ About Me
-- 👩‍💻 **Data Engineer II** @ The U Group Co.
+- 👩‍💻 **Backend Engineer II** @ The U Group Co.
 - 🎓 **Master of IT** @ University of Western Australia (UWA)
 - 🏅**AWS Certification** (CLF-C02 & SAA-C03)
 - 📊 **CPA Australia**
