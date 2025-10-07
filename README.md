@@ -30,7 +30,7 @@
 - 🎓 **Master of IT** @ University of Western Australia (UWA)
 - 🏅**AWS Certification** (CLF-C02 & SAA-C03)
 - 📊 **CPA Australia**
-- 🌱 Currently learning **AWS Amplify** and **AWS Cloud**
+- 🌱 Currently learning **Microservice Architecture**
 - 🎯 Interested in **Cloud Computing, Web Development, Data Engineering, and Blockchain**
 - 📝 Check out my [Resume](https://huixin-tw.github.io/Resume/) | [Portfolio](https://www.huixinyang.com/) | [LinkedIn](https://linkedin.com/in/hui-xin-yang)
 - 💬 Ask me about **JavaScript, TypeScript, Node.js, Next.js, React, Python, R, Java, Bash, Git, SQL, Accounting, and Finance**
