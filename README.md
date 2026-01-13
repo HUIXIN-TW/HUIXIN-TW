@@ -32,8 +32,8 @@
 - 📊 **CPA Australia**
 - 🌱 Currently learning **Microservice Architecture**
 - 🎯 Interested in **Cloud Computing, Web Development, Data Engineering, and Blockchain**
-- 📝 Check out my [Resume](https://huixin-tw.github.io/Resume/) | [Portfolio](https://www.huixinyang.com/) | [LinkedIn](https://linkedin.com/in/hui-xin-yang)
-- 💬 Ask me about **JavaScript, TypeScript, Node.js, Next.js, React, Python, R, Java, Bash, Git, SQL, Accounting, and Finance**
+- 📝 Check out my [Resume](https://resume.huixinyang.com/) | [Portfolio](https://portfolio.huixinyang.com/) | [LinkedIn](https://linkedin.com/in/hui-xin-yang)
+- 💬 Ask me about **JavaScript, TypeScript, Node.js, Next.js, NestJS, React, Python, R, Java, Bash, Git, SQL, Accounting, and Finance**
 - 📌 *Always learning & exploring new tech!* 🚀
 - 🐶 Fun fact: I always greet my dog before he does.  
 
@@ -43,12 +43,4 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HUIXIN-TW&theme=transparent" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HUIXIN-TW&theme=transparent" />
-</div>
-
-</br>
-
-## 📍 Featured Projects
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUIXIN-TW&repo=portfolio" alt="Portfolio Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HUIXIN-TW&repo=Resume" alt="Resume Project" />
 </div>
