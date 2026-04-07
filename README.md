@@ -3,13 +3,13 @@
 <a href="https://linkedin.com/in/hui-xin-yang">
   <img align="left" alt="Huixin Yang LinkedIn" width="22px" src="https://img.icons8.com/nolan/512/linkedin-circled.png"/>
 </a> 
-<a href="https://huixin-tw.github.io/Resume">
+<a href="https://resume.huixinyang.com/">
   <img align="left" alt="Huixin Yang Github" width="22px" src="https://img.icons8.com/nolan/512/github.png"/>
 </a>  
 <a href="mailto:huixin.yang.tw@gmail.com">
   <img align="left" alt="Huixin Yang Email" width="22px" src="https://img.icons8.com/nolan/512/apple-mail.png"/>
 </a> 
-<a href="https://www.huixinyang.com">
+<a href="https://huixinyang.com">
   <img align="left" alt="Huixin Yang Portfolio" width="22px" src="https://img.icons8.com/nolan/512/web.png"/>
 </a>  
 
